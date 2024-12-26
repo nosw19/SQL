@@ -31,6 +31,14 @@
   <h2><strong>🛠 사용 기술 스택</strong></h2>
   <ul>
     <li><strong>언어</strong> : SQL </li>
+    <li><strong>테이블 구성 및 전처리</strong> : </li>
+      <ul>
+        <li>update</li>
+        <li>regexp_substr</li>
+        <li>join</li>
+        <li>comment on column</li>
+        <li>primary key</li>
+      </ul>
     <li><strong>머신러닝 </strong>: 
       <ul>  
         <li>DBMS_DATA_MINING.REGRESSION</li>
